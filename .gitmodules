@@ -1,0 +1,6 @@
+[submodule "budgerigar_api"]
+	path = budgerigar_api
+	url = git@github.com:TyrSnow/budgerigar_api.git
+[submodule "budgerigar_web"]
+	path = budgerigar_web
+	url = git@github.com:TyrSnow/budgerigar_web.git
